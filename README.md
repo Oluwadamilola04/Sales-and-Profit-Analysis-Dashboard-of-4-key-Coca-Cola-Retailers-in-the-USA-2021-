@@ -7,7 +7,7 @@ The objective was to transform raw sales data into **clear, actionable insights*
 The dashboard provides a **high-level executive summary** as well as **detailed breakdowns** by time, brand, region, state, and retailer.
 
 <img width="916" height="534" alt="Screenshot 2026-02-08 221531" src="https://github.com/user-attachments/assets/b733d0b4-4058-4c31-9ac6-4341e52ce211" />
-<img width="916" height="534" alt="Screenshot 2026-02-08 221531" src="https://github.com/user-attachments/assets/b733d0b4-4058-4c31-9ac6-4341e52ce211" />
+
 
 
 ---
@@ -68,7 +68,7 @@ The raw dataset was cleaned and transformed using **Power Query**:
 ## 📊 Dashboard Insights & Visual Analysis
 
 <img width="912" height="516" alt="Screenshot 2026-02-08 221552" src="https://github.com/user-attachments/assets/addce6de-deec-4fd0-af7c-4eb72be7b612" />
-<img width="912" height="516" alt="Screenshot 2026-02-08 221552" src="https://github.com/user-attachments/assets/addce6de-deec-4fd0-af7c-4eb72be7b612" />
+
 
 
 ### 🔢 KPI Summary Cards
