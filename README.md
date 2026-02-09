@@ -202,11 +202,3 @@ This Power BI project demonstrates an **end-to-end business intelligence workflo
 The dashboard delivers **clear, decision-ready insights** into Coca-Cola’s 2021 U.S. sales performance and can be used by executives, analysts, and sales managers to support data-driven decisions.
 
 ---
-
-## 📌 Future Enhancements
-- Add year-over-year comparison
-- Include forecasting using time-series analysis
-- Incorporate marketing and promotional data
-- Drill-down by customer demographics
-
-
